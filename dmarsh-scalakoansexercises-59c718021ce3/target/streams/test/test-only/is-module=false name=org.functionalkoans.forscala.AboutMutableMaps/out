@@ -1,0 +1,8 @@
+[0m[[0minfo[0m] [0m[32mAboutMutableMaps:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Mutable maps can be created easily[0m[0m
+[0m[[0minfo[0m] [0m[32m- Mutable maps can have elements removed[0m[0m
+[0m[[0minfo[0m] [0m[32m- Mutable maps can have tuples of elements removed[0m[0m
+[0m[[0minfo[0m] [0m[32m- Mutable maps can have tuples of elements added[0m[0m
+[0m[[0minfo[0m] [0m[32m- Mutable maps can have Lists of elements added[0m[0m
+[0m[[0minfo[0m] [0m[32m- Mutable maps can have Lists of elements removed[0m[0m
+[0m[[0minfo[0m] [0m[32m- Mutable maps can be cleared[0m[0m
