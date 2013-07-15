@@ -16,3 +16,4 @@ console
 ~test-only org.functionalkoans.forscala.AboutSets
 ~test-only org.functionalkoans.forscala.AboutMutableMaps
 ~test-only org.functionalkoans.forscala.AboutMutableSets
+~test-only org.functionalkoans.forscala.AboutFormatting
