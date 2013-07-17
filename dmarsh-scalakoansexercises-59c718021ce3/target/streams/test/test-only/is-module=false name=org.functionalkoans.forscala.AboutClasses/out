@@ -1,4 +1,0 @@
-[0m[[0minfo[0m] [0m[32mAboutClasses:[0m[0m
-[0m[[0minfo[0m] [0m[32m- val parameters in class definition define getter[0m[0m
-[0m[[0minfo[0m] [0m[32m- var parameters in class definition define getter and setter[0m[0m
-[0m[[0minfo[0m] [0m[32m- fields defined internally are private to class[0m[0m

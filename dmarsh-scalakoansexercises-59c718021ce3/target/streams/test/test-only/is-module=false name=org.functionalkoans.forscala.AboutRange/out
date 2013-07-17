@@ -1,5 +1,0 @@
-[0m[[0minfo[0m] [0m[32mAboutRange:[0m[0m
-[0m[[0minfo[0m] [0m[32m- Range are not inclusive at end of range[0m[0m
-[0m[[0minfo[0m] [0m[32m- Range can specify a step for an increment[0m[0m
-[0m[[0minfo[0m] [0m[32m- Range doe not include the last item, even in a step increment[0m[0m
-[0m[[0minfo[0m] [0m[32m- Range can specify to include the last value[0m[0m
