@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0m[32mAboutMaps:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Maps can be created easily[0m[0m
+[0m[[0minfo[0m] [0m[32m- Maps contain distinct pairings[0m[0m
+[0m[[0minfo[0m] [0m[32m- Maps can be added to easily[0m[0m
+[0m[[0minfo[0m] [0m[32m- Map values can be iterated[0m[0m
+[0m[[0minfo[0m] [0m[32m- Maps insertion with duplicate key updates previous entry with subsequent value[0m[0m
+[0m[[0minfo[0m] [0m[32m- Map keys may be of mixed type[0m[0m
+[0m[[0minfo[0m] [0m[32m- Mixed type values can be added to a map [0m[0m
+[0m[[0minfo[0m] [0m[32m- Maps may be accessed[0m[0m
+[0m[[0minfo[0m] [0m[32m- Map elements can be removed easily[0m[0m
+[0m[[0minfo[0m] [0m[32m- Accessing a map by key results in an exception if key is not found[0m[0m
+[0m[[0minfo[0m] [0m[32m- Map elements can be removed in multiple[0m[0m
+[0m[[0minfo[0m] [0m[32m- Map elements can be removed with a tuple[0m[0m
+[0m[[0minfo[0m] [0m[32m- Attempted removal of nonexistent elements from a map is handled gracefully[0m[0m
+[0m[[0minfo[0m] [0m[32m- Map equivalency is independent of order[0m[0m
