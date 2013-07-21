@@ -7,7 +7,7 @@ class AboutLazySequences extends KoanSuite {
   koan("Creating a lazy collection form a strict collection") {
     val strictList = List(10, 20, 30)
     val lazyList = strictList.view
-    lazyList.head should be(__)
+    lazyList.head should be(10)
   }
 
   koan("Strict collection always processes its elements but lazy collection does it on demand") {
@@ -15,11 +15,11 @@ class AboutLazySequences extends KoanSuite {
     def inc = {x += 1; x}
 
     val strictList = List(inc _, inc _, inc _)
-    strictList.map(f => f).head should be(__)
-    x should be(__)
+    strictList.map(f => f).head should be(inc _)
+    x should be(3)
 
     strictList.map(f => f).head
-    x should be(__)
+    x should be(1)
 
     x = 0
     val lazyList = strictList.view
